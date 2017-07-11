@@ -4,7 +4,7 @@
 
 Elegant Themes Using Alfred Official Colors
 
-[Download all themes](https://github.com/deerawan/yo-alfred-themes/archive/master.zip)
+[Download all themes](https://goo.gl/sQFuMH)
 
 ## Features
 - Dark and white theme
@@ -12,9 +12,11 @@ Elegant Themes Using Alfred Official Colors
 - Large Icon
 
 ## Dark Theme
+[Download dark theme](https://goo.gl/eLpRwE)
 
 ![Yo Alfred Dark](https://github.com/deerawan/yo-alfred-themes/raw/master/images/yo-alfred-dark.png)
 
 ## Light Theme
+[Download light theme](https://goo.gl/xn4rDy)
 
 ![Yo Alfred White](https://github.com/deerawan/yo-alfred-themes/raw/master/images/yo-alfred-white.png)
